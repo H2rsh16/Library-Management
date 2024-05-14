@@ -5,7 +5,7 @@
   
 
 2. Open SQL Workbench :
-   - Create a Database named "libry"
+   - Create a Database named "library"
    - open and execute sql file (Library Management.sql)
 
 
